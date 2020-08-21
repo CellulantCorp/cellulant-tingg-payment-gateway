@@ -28,6 +28,9 @@ Currently we are only enable payments in African markets.
 == Screenshots ==
 1. Seamless integration to WooCommerce.
 
+== Credentials details ==
+
+You will need to register on the developer sandbox on https://developer.tingg.africa/checkout/v2/portal/#/register/user
 
 == Changelog ==
 = 1.0.0 =
