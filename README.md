@@ -30,7 +30,7 @@ Currently we are only enable payments in African markets.
 
 == Credentials details ==
 
-You will need to register on the developer sandbox on https://developer.tingg.africa/checkout/v2/portal/#/register/user
+You will need to register on the developer sandbox on this link [link](https://developer.tingg.africa/checkout/v2/portal/#/register/user) to get the credentials to be used for the integration. The credentials include the access key, iv key and secret key.
 
 == Changelog ==
 = 1.0.0 =
